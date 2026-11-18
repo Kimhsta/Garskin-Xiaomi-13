@@ -1,24 +1,28 @@
-# GRA SKIN GDINASTI
+# GARSKIN GDINASTI
 
 **Generasi Dinasti** — Brand identity and visual design project.
 
 ## About
 
-**GRA SKIN GDINASTI** is a design system exploring the concept of "Generasi Dinasti" (Generational Dynasty). The visual language combines contemporary aesthetics with symbolic elements representing generational legacy, growth, and continuity.
+**GARSKIN GDINASTI** is a design system exploring the concept of "Generasi Dinasti" (Generational Dynasty). The visual language combines contemporary aesthetics with symbolic elements representing generational legacy, growth, and continuity.
 
 This project documents the core brand assets, visual guidelines, and identity components.
 
 ## Visual Assets
 
+![](Mockup.png)
+
 ### Light Mode
+
 ![Light Mockup](Light.jpg)
-*Light theme variant — clean, elevated presentation*
+_Light theme variant — clean, elevated presentation_
 
 ### Dark Mode
-![Dark Mockup](Dark.jpg)
-*Dark theme variant — high-contrast, immersive mode*
 
-![](mockup_preview.png)
+![Dark Mockup](Dark.jpg)
+_Dark theme variant — high-contrast, immersive mode_
+
+![](Mockup.png)
 
 ## Project Structure
 
@@ -40,4 +44,4 @@ These assets are intended for brand documentation, presentation materials, and d
 
 ---
 
-*Initialized for Generasi Dinasti brand project*
+_Initialized for Generasi Dinasti brand project_
